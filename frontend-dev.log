@@ -1,0 +1,106 @@
+
+> nextn@0.1.0 dev
+> next dev -p 9002
+
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:9002
+   - Network:      http://192.168.1.178:9002
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2s
+ ○ Compiling /dashboard/history ...
+ ✓ Compiled /dashboard/history in 5.7s (1272 modules)
+ GET /dashboard/history 200 in 6649ms
+ ✓ Compiled in 1012ms (477 modules)
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 526ms (812 modules)
+ GET /favicon.ico 200 in 631ms
+ ○ Compiling / ...
+ ✓ Compiled / in 762ms (1315 modules)
+ GET / 200 in 1547ms
+ ○ Compiling /auth ...
+ ✓ Compiled /auth in 1362ms (1334 modules)
+ GET /auth 200 in 1638ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 2.1s (2521 modules)
+ GET /dashboard 200 in 2268ms
+ ○ Compiling /dashboard/reports/[id] ...
+ ✓ Compiled /dashboard/reports/[id] in 2.8s (3735 modules)
+ GET /dashboard/reports/Zh5ZEE9P4KaWNX8PoSSI 200 in 4676ms
+ ○ Compiling /dashboard/analytics ...
+ ✓ Compiled /dashboard/analytics in 1208ms (3756 modules)
+ GET /dashboard/analytics 200 in 1413ms
+ ○ Compiling /dashboard/chatbot ...
+ ✓ Compiled /dashboard/chatbot in 1037ms (3727 modules)
+ GET /dashboard/chatbot 200 in 1262ms
+ ○ Compiling /api/chat ...
+ POST /api/chat 200 in 6268ms
+ GET /dashboard/reports 200 in 2260ms
+ GET /dashboard/history 200 in 1159ms
+ GET /dashboard/analytics 200 in 44ms
+ GET /dashboard/reports 200 in 42ms
+ GET /dashboard/history 200 in 42ms
+ GET /dashboard/analysis 200 in 2074ms
+[skinLesionAnalysisTool] Using FASTAPI_URL: http://127.0.0.1:8000
+ POST /dashboard/analysis 200 in 572ms
+ ✓ Compiled /dashboard/explainability/[id] in 1697ms (3762 modules)
+ GET /dashboard/explainability/AqfsOEZtMunQ18Yt9gSz 200 in 3435ms
+ POST /dashboard/explainability/AqfsOEZtMunQ18Yt9gSz 200 in 1154ms
+ POST /dashboard/explainability/AqfsOEZtMunQ18Yt9gSz 200 in 25ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 582ms (2639 modules)
+ GET /dashboard 200 in 764ms
+ ○ Compiling /dashboard/settings ...
+ ✓ Compiled /dashboard/settings in 1353ms (3780 modules)
+ GET /dashboard/settings 200 in 1496ms
+ ○ Compiling /auth ...
+ ✓ Compiled /auth in 1391ms (2639 modules)
+ GET /auth 200 in 1620ms
+ GET /auth 200 in 33ms
+ GET /dashboard 200 in 50ms
+ GET /dashboard/analysis 200 in 52ms
+[skinLesionAnalysisTool] Using FASTAPI_URL: http://127.0.0.1:8000
+ POST /dashboard/analysis 200 in 1350ms
+ GET /dashboard/history 200 in 60ms
+ ○ Compiling /dashboard/reports ...
+ ✓ Compiled /dashboard/reports in 1468ms (2646 modules)
+ GET /dashboard/reports 200 in 1702ms
+ GET /dashboard/history 200 in 54ms
+ ○ Compiling /dashboard/reports/[id] ...
+ ✓ Compiled /dashboard/reports/[id] in 1430ms (2642 modules)
+ GET /dashboard/reports/Y8A9xNKTIi6hXcdqL9N4 200 in 2305ms
+ POST /dashboard/reports/Y8A9xNKTIi6hXcdqL9N4 200 in 537ms
+ POST /dashboard/reports/Y8A9xNKTIi6hXcdqL9N4 200 in 25ms
+ GET /dashboard/history 200 in 45ms
+ ○ Compiling /dashboard/explainability/[id] ...
+ ✓ Compiled /dashboard/explainability/[id] in 600ms (2063 modules)
+ GET /dashboard/explainability/Y8A9xNKTIi6hXcdqL9N4 200 in 1399ms
+ POST /dashboard/explainability/Y8A9xNKTIi6hXcdqL9N4 200 in 225ms
+ POST /dashboard/explainability/Y8A9xNKTIi6hXcdqL9N4 200 in 22ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 565ms (2646 modules)
+ GET /dashboard 200 in 711ms
+ GET /dashboard 200 in 43ms
+ GET /dashboard/analysis 200 in 58ms
+ GET /dashboard/history 200 in 57ms
+ GET /dashboard/reports 200 in 53ms
+ ○ Compiling /dashboard/chatbot ...
+ ✓ Compiled /dashboard/chatbot in 1604ms (2651 modules)
+ GET /dashboard/chatbot 200 in 1735ms
+ ○ Compiling /dashboard/analytics ...
+ ✓ Compiled /dashboard/analytics in 1097ms (2663 modules)
+ GET /dashboard/analytics 200 in 1236ms
+ GET /dashboard/analysis 200 in 44ms
+ GET /dashboard/analysis 200 in 30ms
+ GET /dashboard/analysis 200 in 34ms
+[skinLesionAnalysisTool] Using FASTAPI_URL: http://127.0.0.1:8000
+ POST /dashboard/analysis 200 in 589ms
+[skinLesionAnalysisTool] Using FASTAPI_URL: http://127.0.0.1:8000
+ POST /dashboard/analysis 200 in 151ms
+ GET /dashboard/analytics 200 in 36ms
+ GET /dashboard/chatbot 200 in 43ms
+ GET /dashboard/reports 200 in 44ms
+ GET /dashboard/history 200 in 45ms
+ GET /dashboard/analysis 200 in 34ms
+[?25h
